@@ -13,7 +13,7 @@ necessary tools to make informed decisions and respond promptly to changing busi
 - :inbox_tray: Inventory Management
 
 ## :technologist: Project Team
-- Agisni Amalia Lugina
-- Septiana Cahaya Sari
-- Triana Puspa Sari
-- Hernanda Hiqmal Maula
+- [Agisni Amalia Lugina](https://www.linkedin.com/in/agisni-amalia-lugina/)
+- [Septiana Cahaya Sari](https://www.linkedin.com/in/septiana-cahaya-sari-607935295/)
+- [Triana Puspa Sari](https://www.linkedin.com/in/trianapsp/)
+- [Hernanda Hiqmal Maula](https://www.linkedin.com/in/hernanda-hiqmal/)
