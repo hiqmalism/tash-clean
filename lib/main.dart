@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tash_clean/form/checkout/struk.dart';
 import 'package:tash_clean/login.dart';
-import 'package:tash_clean/screens/bottom_nav.dart';
-import 'package:tash_clean/screens/persediaan.dart';
-import 'package:tash_clean/screens/pesanan.dart';
 
 void main() {
   runApp(const MyApp(),
